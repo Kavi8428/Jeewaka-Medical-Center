@@ -1,0 +1,12 @@
+{
+    "html-to-css-autocompletion.autocompletionFilesScope": "linked-files",
+    "vs-color-picker.autoLaunch": true,
+    "vs-color-picker.autoLaunchDelay": 10,
+    "window.autoDetectColorScheme": true,
+    "window.closeWhenEmpty": true,
+    "window.commandCenter": true,
+    "window.confirmSaveUntitledWorkspace": true,
+    "window.density.editorTabHeight": "default",
+    "window.zoomLevel": 0,
+    "window.zoomPerWindow": true
+}
